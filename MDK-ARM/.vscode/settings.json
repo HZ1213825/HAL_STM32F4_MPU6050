@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "print.h": "c",
+        "mpu6050.h": "c",
+        "delay.h": "c",
+        "mpuiic.h": "c",
+        "usart.h": "c",
+        "inv_mpu.h": "c",
+        "inv_mpu_dmp_motion_driver.h": "c",
+        "math.h": "c",
+        "i2c.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "tim.h": "c"
+    }
+}
